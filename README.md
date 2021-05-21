@@ -13,7 +13,11 @@ date: 2020-02-25 16:08:03
 
 ## 介绍
 
-学习中遇到问题的解决方案
+学习中遇到问题的解决方案, 主要在Gitee上更新. 
+
+这里是备用访问仓库, 这里更新可能会比Gitee慢一点.
+
+如果你想得到最新内容, [请访问Gitee并下载离线文件查阅内容](https://gitee.com/StringOD/Solution)
 
 
 
@@ -23,7 +27,7 @@ date: 2020-02-25 16:08:03
 
 <font color="red"><b>离线打开这个文档你需要把 FunctionModule.md 和 jie-jue-fang-an.md 文件和这个文档放在一起</b></font>
 
-[在线: 功能代码](https://gitee.com/StringOD/Solution/blob/master/Markdown/FunctionModule.md)
+[在线: 功能代码](https://github.com/TianruiShi/Solution/blob/main/Markdown/FunctionModule.md)
 
 [本地: 功能代码](..\Solution\Markdown\FunctionModule.md)
 
@@ -35,7 +39,7 @@ date: 2020-02-25 16:08:03
 
 <font color="red"><b>离线打开这个文档你需要把 GeekToolsList.md 和 jie-jue-fang-an.md 文件和这个文档放在一起</b></font>
 
-[在线: Geek Tools](https://gitee.com/StringOD/Solution/blob/master/Markdown/GeekToolsList.md)
+[在线: Geek Tools](https://github.com/TianruiShi/Solution/blob/main/Markdown/GeekToolsList.md)
 
 [本地: Geek Tools](..\Solution\Markdown\GeekToolsList.md)
 
@@ -50,7 +54,7 @@ date: 2020-02-25 16:08:03
 1. 问题过于简单，百度可以直接查到
 2. 问题过于复杂，百度查不到
 
-[在线：解决方案](https://gitee.com/StringOD/Solution/blob/master/Markdown/jie-jue-fang-an.md)
+[在线：解决方案](https://github.com/TianruiShi/Solution/blob/main/Markdown/jie-jue-fang-an.md)
 
 [本地：解决方案](..\Solution\Markdown\jie-jue-fang-an.md)
 
@@ -66,7 +70,7 @@ date: 2020-02-25 16:08:03
 
 &emsp;&emsp;就从总体效果上来说感觉还行，没有 `Markdown` 美观，且很多功能没法实现。在未来我有可能会使用 `Markdown` 对 **解决方案** 的结构进行重构，根据一些资料显示，`Markdown` 完全可以当作 `Wiki` 来使用。
 
-[在线：解决方案 Zim版](https://gitee.com/StringOD/Solution/tree/master/ZimNote)
+[在线：解决方案 Zim版](https://github.com/TianruiShi/Solution/blob/main/ZimNote)
 
 [本地：解决方案 Zim版](..\Solution\ZimNote\Manjaro_Linux_Home.html)
 
